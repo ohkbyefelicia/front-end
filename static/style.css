@@ -1,0 +1,21 @@
+h1,p{
+   font-family: 'Milonga', serif;
+  font-optical-sizing: auto;
+  font-size: larger;
+   font-style: normal;
+   font-weight: bold;
+    font-variation-settings:100;
+}
+
+body{
+  margin: 0;
+   overflow-x: hidden;
+}
+
+.col,h6{
+    font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  font-variation-settings: 100;
+}
